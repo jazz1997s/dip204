@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Imageslider {width: 550px; height:270px;
+overflow:hidden; margin:30px auto;
+}
+
+.Imageslider img {
+width: 550px; height:270px; display:none;
+border:"0";
+}

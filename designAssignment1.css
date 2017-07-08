@@ -1,0 +1,226 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {font-family:  Arial, sans-serif;
+			background-color:#FFFFFF;}
+		
+#Shop, #AboutUs, #Learn, #Coffee, #SignUp
+{
+	border-top: 3px solid #C9C9C9;
+	padding-top:50px;
+	}
+
+.homeLogo img
+{	
+
+	height:60px;
+	width:80px;
+	margin-left: 20px;
+}
+
+.connectLogo img
+{
+	display: inline;
+	height:40px;
+	width:40px;
+	margin-left: 20px;
+}
+
+ul li
+{
+	display: inline;
+	position: relative;
+    bottom: 60px;
+    left: 70px;
+	margin-left: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+}
+
+
+.introText a:link {color: blue;}
+.introText a:hover {color: red;
+					background-color: yellow;}
+
+.connect {
+	margin-left: 85px;
+}
+ul li:hover {
+
+	color:red;	
+}
+
+.navigation a {
+	text-decoration:none;
+}
+
+.introImage img
+{ 
+	max-width:100%;
+   	height:auto;
+   	max-height:100%;
+	margin-top:10px;
+}
+
+
+#less{display: none;}
+
+#my-text {
+    float: right;
+    margin-right:-90px;
+}
+
+
+.left
+{
+	margin-left:600px;
+	float:right;
+}
+
+.introText
+{ 
+	font-family: Tahoma;
+	text-align: justify;
+}
+
+.blue
+{
+	color:#0200FF;	
+}
+
+.copyrights
+{
+	font-size: 80%;
+	font-style:italic;
+    text-align: center;
+    padding-top: 100px;
+	
+
+}
+
+.Shopinterior img
+{
+	float:left;
+	width: 55%;
+	height: 55%;
+}
+
+.divisionOne a { 
+	text-decoration: none;
+	font-size: 20px;
+	color: #FF0000;
+
+}
+
+.divisionOne
+{	
+	text-align: justify;
+    text-justify: inter-word;	
+	margin-right: 300px;
+	margin-top: -422px;
+	float:right;
+	width:230px;
+	clear:left;
+}
+
+
+form {
+	float: right;
+	font-size: 14px;
+	margin-top: -5px;
+}
+
+.divisionOne a:hover
+{
+	color: #FFFF00;
+}
+
+footer
+{
+    box-shadow: 0 -5px 5px -5px #333;
+    width: 100%;
+    height: 100px;
+	clear: both;
+}
+
+search
+{
+	margin: 20px 20px;
+}
+
+nav {
+    border-bottom: 3px dotted #000000;
+	background-color: #BCBCBC;
+	position: fixed;
+    margin-bottom: 100px;
+	margin-top: -15px;
+	height: 13%;
+    width: 100%;
+    z-index: 100;
+    
+}
+
+.introImage {
+	max-width: 100%;
+	max-height: 100%;
+    margin: auto;
+}
+	
+.connectLogo {
+    float: right;
+}
+
+.operationHour {
+	margin-bottom: -140px;
+}
+
+.container
+{
+	padding-right: 1000px;
+	margin-top: 10px;
+	clear: both;
+}
+
+.form1 {
+	padding-right: 960px;
+}
+
+.map {
+	float:right;
+	clear: both;
+	padding-bottom: -100px;
+}
+.fotorama
+{
+	width:700px;
+	height: 700px;
+	margin: 0px auto;
+	padding-top: 150px;
+}
+
+.learning h1 {font-family:Coffee With Sugar;
+	     color:brown;
+		 margin: 5px;
+		 text-align:center, justify;}
+.learning h4 {font-family:Coffee At Midnight Demo;
+	     margin-top: 5px;
+		 text-align:center;
+		 color:brown;
+	    }	
+		 
+.learning p  {   
+	     font-family:Verdana;
+		 text-align:center;
+	    }
+		
+.coffeetypeThumb  {
+	height:120px;
+	width:200px;
+	float: right;
+	margin-left: 10px;
+}
+.coffeeType p
+{
+	border-bottom: 3px solid #C9C9C9;
+}
